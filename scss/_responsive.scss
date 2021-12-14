@@ -1,0 +1,1024 @@
+/*-- Responsive --*/
+
+@media screen and (max-width: 1366px) {
+	.location-map h4 {
+		font-size: 2.4em;
+	}
+	.mark {
+		margin: 12em 53em 0;
+	}
+	.subscribe-form {
+		width: 36%;
+	}
+}
+@media screen and (max-width: 1280px) {
+	.header-bottom {
+		padding: 2em 0;
+	}
+	.location-map h4 {
+		font-size: 2.2em;
+	}
+	.mark {
+		margin: 12em 49em 0;
+	}
+}
+@media screen and (max-width: 1024px) {
+	.caption.text-center h5 {
+		font-size: 3.1em;
+	}
+	.caption h3 {
+		font-size: 4em;
+	}
+	.caption p {
+		font-size: 1.5em;
+		margin: 0.5em 0 2em 0;
+	}
+	.caption {
+		width: 66%;
+		top: 22%;
+		left: 16.5%;
+	}
+	.header-bottom {
+		padding: 1.7em 0;
+	}
+	img.down {
+		margin-left: 44%;
+	}
+	.servicios-seccion-head h3,.team-seccion-head h3,.experiencia-seccion-head h3,.valoraciones-seccion h3,.opiniones-seccion-head h3,.clientes-seccion h3,
+	.tarifa-seccion-head h3,.contacto-seccion-head h3{
+		font-size: 3.5em;
+	}
+	.servicios-seccion-head p,.team-seccion-head p ,.contacto-seccion-head p{
+		font-size: 1.3em;
+	}	
+	.servicios-seccion-grid h4 {
+		font-size: 1.8em;
+		margin: 16px 0 5px 0px;
+	}
+	.servicios-seccion,.team-seccion,.experiencia-seccion,.valoraciones-seccion,.opiniones-seccion,.clientes-seccion,.tarifa-seccion,.location-seccion,
+	.contacto-seccion,.subscribe-seccion	{
+		padding: 3em 0;
+	}
+	.team-seccion-grid {
+		margin: 0 2%;
+		width: 29.333%;
+	}
+	.valoraciones-grids{
+		width: 70%;
+	}
+	.team-seccion-head,.experiencia-seccion-head,.valoraciones-seccion-head,.contacto-seccion-head{
+		margin-bottom: 3em;
+	}
+	.valoraciones-grid h3 {
+		font-size: 3em;
+	}
+	.clientes-text h4 {
+		font-size: 1.54em;
+	}
+	.clientes-text {
+		margin-top: 0px;
+	}
+	.clientes-text p {
+		font-size: 1.19em;
+		line-height: 1.5em;
+	}
+	.clientes {
+		margin-right: 3%;
+	}
+	.opiniones-seccion-grid {
+		padding: 10px;
+		margin: 3em 2% 0 0;
+	}
+	ul.clientes li {
+		margin: 0 2em;
+	}
+	.rates {
+		left: 3em;
+	}
+	.tarifa-seccion-grid1-try h3 {
+		font-size: 2.8em;
+		background: url('../imagenes/line.png') no-repeat 104px 38px;
+	}
+	.contacto-form {
+		width: 60%;
+	}
+	.location-map {
+		min-height: 445px;
+	}
+	.map iframe {
+		min-height: 440px;
+	}
+	.mark {
+		margin: 10em 40em 0;
+		width: 24%;
+	}
+	.subscribe-form {
+		width: 48%;
+	}
+	.callbacks_tabs a:after {
+		height: 18px;
+		width: 18px;
+		border: 2px solid #fff;
+	}
+	ul.callbacks_tabs.callbacks1_tabs {
+		bottom: 49%;
+	}
+}
+@media screen and (max-width: 800px) {
+	.caption.text-center h5 {
+		font-size: 2.5em;
+	}
+	.caption h3 {
+		font-size: 3em;
+	}
+	.caption p {
+		font-size: 1.3em;
+		margin: 0.4em 0 1.8em 0;
+	}
+	.callbacks_tabs a:after {
+		height: 16px;
+		width: 16px;
+	}
+	.top-menu ul li a {	
+		font-size: 1.05em;
+	}
+	.top-menu ul li {
+		margin: 0 8px;
+	}
+	.header-bottom {
+		padding: 1.5em 0;
+	}
+	.servicios-seccion-head h3, .team-seccion-head h3, .experiencia-seccion-head h3, .valoraciones-seccion h3, .opiniones-seccion-head h3, .clientes-seccion h3, .tarifa-seccion-head h3, .contacto-seccion-head h3 {
+		font-size: 2.85em;
+	}
+	.servicios-seccion-head {
+		margin-bottom: 0em;
+	}
+	.servicios-seccion-head p, .team-seccion-head p, .contacto-seccion-head p {
+		font-size: 1.05em;
+	}
+	.servicios-seccion-grid h4 {
+		font-size: 1.7em;
+		margin: 12px 0 0px 0px;
+	}
+	.servicios-seccion-grid img {
+		width: 21%;
+	}
+	.servicios-seccion-grid {
+		margin-top: 3em;
+	}
+	.team-seccion-grid {
+		margin: 0 1%;
+		width: 31.333%;
+		float: left;
+	}
+	.team-seccion-grid img{
+		width:100%;
+	}
+	.team-seccion-grid h4 {
+		font-size: 2em;
+		margin: 10px 0 3px 0;
+	}
+	.team-seccion-grid p {
+		margin-bottom: 1em;
+	}
+	.servicios-seccion, .team-seccion, .experiencia-seccion, .valoraciones-seccion, .opiniones-seccion, .clientes-seccion, .tarifa-seccion, .location-seccion, .contacto-seccion, .subscribe-seccion {
+		padding: 2.3em 0;
+	}
+	.polling {
+		width: 70%;
+	}
+	.skills h4 {
+		font-size: 1.9em;
+		padding: 8px 0 0 12px;
+	}
+	.skills {
+		height: 46px;
+	}
+	.percentage h4 {
+		font-size: 2.4em;
+		margin: 9px 0 0 20px;
+	}
+	.valoraciones-grid {
+		width: 25%;
+		float: left;
+	}
+	.valoraciones-grids {
+		width: 85%;
+	}
+	.opiniones-seccion-grid {
+		padding: 16px;
+		margin: 2em 0% 0 0;
+		width: 100%;
+	}
+	.clientes img {
+		width: 85%;
+	}
+	.clientes {
+		width: 24%;
+	}
+	.clientes-text {
+		margin-top: 6px;
+	}
+	.clientes-text h4 {
+		margin: 6px 0;
+	}
+	.clientes-text {
+		width: 73%;
+	}
+	.clientes {
+		margin-right: 0%;
+	}
+	.clientes-text p {
+		margin-bottom: 1em;
+	}
+	ul.clientes {
+		margin-top: 2em;
+	}	
+	ul.clientes li img {
+		width: 100%;
+	}
+	ul.clientes li {
+		margin: 0 2%;
+		width: 20%;
+	}		
+	.contacto-form {
+		width: 71%;
+	}
+	i.phone {
+		width: 80px;
+		height: 80px;
+		background: url('../imagenes/img-sprite.png') no-repeat -1px -142px;
+		background-size: 420px;
+	}
+	i.mail{
+		width: 80px;
+		height: 80px;
+		background: url('../imagenes/img-sprite.png') no-repeat -86px -142px;
+		background-size: 420px;
+	}
+	i.location{
+		width: 80px;
+		height: 80px;
+		background: url('../imagenes/img-sprite.png') no-repeat -168px -142px;
+		background-size: 420px;
+	}
+	.location-seccion ul li {
+		font-size: 1.4em;
+	}
+	.location-map {
+		min-height: 405px;
+	}
+	.map iframe {
+		min-height: 400px;
+	}
+	.location-map h4 {
+		font-size: 2em;
+	}
+	.mark {
+		margin: 8.5em 32em 0;
+		width: 28%;
+	}
+	.subscribe-form {
+		width: 61%;
+	}
+	.social-icons i {
+		width: 70px;
+		height: 70px;
+		background-size: 400px;
+	}
+	i.dribble1 {
+		background-position: -1px -62px;
+	}
+	i.behance1 {
+		background-position: -73px -62px;
+	}
+	i.pinterest1 {
+		background-position: -145px -62px;
+	}
+	i.facebook1 {
+		background-position: -216px -62px;
+	}
+	.footer {
+		padding: 1.5em 0;
+	}
+	.rates h2 {
+		font-size: 4em;
+	}
+	.rates p {
+		font-size: 22px;
+	}
+	.rates {
+		width: 11em;
+		height: 11em;
+	}
+	.tarifa-seccion-grid1-try h3 {
+		font-size: 2.2em;
+		background: url('../imagenes/line.png') no-repeat 71px 30px;
+	}
+	.tarifa-seccion-grid1-try p {
+		font-size: 1.15em;
+	}
+	.tarifa-seccion-grid1-try a {
+		font-size: 1.5em;
+		padding: 3px 15px;
+		width: 32%;
+	}
+	.tarifa-seccion-head {
+		margin-bottom: 8em;
+	}
+	.rates {
+		left: 2.8em;
+		bottom: -6em;
+	}
+	.tarifa-seccion-grid1-try {
+		padding: 7em 0 1em 0;
+	}
+}
+@media screen and (max-width: 768px) {
+    span.menu{
+		width:28px;
+		height:28px;
+		background:url('../imagenes/nav-icon.png') no-repeat;
+		display: inline-block;
+		cursor: pointer;
+		margin-top: 3px;
+	}
+	.top-menu{
+		width:100%;
+		display: none;
+		text-align:center;
+		background:#fff;
+		padding:0;
+		margin-top:10px;
+	}
+	.top-menu ul{
+		float:none;
+		width:100%;
+	}
+	.top-menu ul li{
+		display:block;
+		float: none;
+	}
+	.top-menu ul li a{
+		color:#323131;
+		display: block;
+		padding: 10px 0px;
+		margin: 10px 0;
+	}
+	.top-menu ul li a.active{
+		color:#f26c4f;
+		border-bottom: 2px solid #f8afa0;
+		border-top: 2px solid #f8afa0;
+	}
+	.top-menu ul li a:hover{
+		color:#f26c4f;
+	}
+}
+@media screen and (max-width: 640px) {
+	.caption.text-center h5 {
+		font-size: 2em;
+	}
+	.caption h3 {
+		font-size: 2.6em;
+	}
+	.caption p {
+		font-size: 1.2em;
+		margin: 0.4em 0 1.3em 0;
+	}
+	.header-bottom {
+		padding: 1em 0;
+	}
+	.team-seccion-grid {
+		padding: 0;
+	}
+	.team-seccion-grid img {
+		border-radius: 7px;
+	}
+	.team-seccion-grid h4 {
+		font-size: 1.8em;
+		margin: 5px 0 2px 0;
+	}
+	.team-seccion-grid p {
+		font-size: 0.875em;
+	}
+	.social-icons1 {
+		margin-bottom: 0.5em;
+	}
+	.servicios-seccion-head h3, .team-seccion-head h3, .experiencia-seccion-head h3, .valoraciones-seccion h3, .opiniones-seccion-head h3, .clientes-seccion h3, .tarifa-seccion-head h3, .contacto-seccion-head h3 {
+		font-size: 2.6em;
+	}
+	.servicios-seccion-grid p {
+		font-size: 1.1em;
+		margin-bottom: 1em;
+	}
+	.team-seccion-head, .experiencia-seccion-head, .valoraciones-seccion-head, .contacto-seccion-head {
+		margin-bottom: 2.2em;
+	}
+	.experiencia-seccion-head p {
+		font-size: 1.15em;
+	}
+	.callbacks_tabs a:after {
+		height: 12px;
+		width: 12px;
+	}
+	ul.callbacks_tabs.callbacks1_tabs {
+		bottom: 44%;
+	}	
+	.polling {
+		width: 80%;
+	}
+	.skills h4 {
+		font-size: 1.6em;
+		padding: 7px 0 0 10px;
+	}		
+	.skills {
+		height: 39px;
+	}
+	.percentage h4 {
+		font-size: 2em;
+		margin: 10px 0 0 15px;
+	}
+	i.obra {
+		width: 105px;
+		height: 90px;
+		background: url('../imagenes/img-sprite.png') no-repeat 1px -187px;
+		background-size: 350px;
+	}
+	i.face {
+		width: 105px;
+		height: 90px;
+		background: url('../imagenes/img-sprite.png') no-repeat -103px -187px;
+		display: inline-block;
+		background-size: 350px;
+	}
+	i.coti{
+		width: 105px;
+		height: 90px;
+		background: url('../imagenes/img-sprite.png') no-repeat -210px -114px;
+		display: inline-block;
+		background-size: 350px;
+	}
+	i.tercia {
+		width: 105px;
+		height: 90px;
+		background: url('../imagenes/img-sprite.png') no-repeat -210px -205px;
+		display: inline-block;
+		background-size: 350px;
+	}
+	.valoraciones-grid h3 {
+		font-size: 2em;
+	}
+	.valoraciones-seccion p {
+		font-size: 0.9em;
+	}
+	.opiniones-seccion-head p {
+		font-size: 1.1em;
+	}
+	.clientes-text {
+		margin-top: 0px;
+	}
+	.clientes-text h4 {
+		margin: 3px 0;
+		font-size: 1.5em;
+	}
+	.clientes-text p {
+		margin-bottom: 0.7em;
+		font-size: 1.1em;
+	}
+	.contacto-form input[type="text"], .contacto-form textarea {
+		width: 90%;
+		padding: 10px 0 10px 10px;
+	}
+	.icon11,.icon12,.icon13 {
+		margin: 5px 5px 5px 0px;
+	}
+	.contacto-form textarea {
+		height: 13em;
+	}
+	.location-map {
+		min-height: 355px;
+	}
+	.map iframe {
+		min-height: 350px;
+	}
+	.location-map h4 {
+		font-size: 1.5em;
+	}
+	.mark {
+		padding: 10px 10px;
+	}
+	.show {
+		top: 18px;
+		left: -57px;
+	}
+	.mark {
+		margin: 8.5em 26em 0;
+	}
+	.contacto-form input[type="enviar"] {
+		font-size: 16px;
+		padding: 12px 22px;
+	}
+	.subscribe-form input[type="text"] {
+		font-size: 17px;
+		padding: 10px 10px 10px 0;
+	}
+	.subscribe-form {
+		width: 74%;
+	}
+	.icon {
+		margin: 6px 0px 6px 7px;
+	}
+	.subscribe-form input[type="enviar"] {
+		font-size: 17px;
+		padding: 11px 25px;
+	}
+	i.phone {
+		width: 60px;
+		height: 60px;
+		background: url('../imagenes/img-sprite.png') no-repeat -1px -108px;
+		background-size: 320px;
+	}
+	i.mail {
+		width: 60px;
+		height: 60px;
+		background: url('../imagenes/img-sprite.png') no-repeat -60px -100px;
+		background-size: 300px;
+	}
+	i.location {
+		width: 60px;
+		height: 65px;
+		background: url('../imagenes/img-sprite.png') no-repeat -150px -123px;
+		background-size: 360px;
+		vertical-align: bottom;
+	}
+	.location-seccion ul li {
+		font-size: 1.3em;
+	}
+	.rates h2 {
+		font-size: 3em;
+	}
+	.rates p {
+		font-size: 17px;
+	}
+	.rates {
+		width: 8.5em;
+		height: 8.5em;
+		left: 2.5em;
+		bottom: -4em;
+	}
+	.tarifa-seccion-grid1-try h3 {
+		font-size: 1.8em;
+		background: url('../imagenes/line.png') no-repeat 66px 17px;
+		background-size: 29% 100%;
+	}
+	.tarifa-seccion-grid1-try p {
+		font-size: 1em;
+	}
+	.tarifa-seccion-grid1-try a {
+		font-size: 1.25em;
+		padding: 4px 13px;
+		width: 34%;
+	}
+	.tarifa-seccion-grid1-try {
+		padding: 5em 0 1em 0;
+	}
+	.tarifa-seccion-head {
+		margin-bottom: 7em;
+	}
+}
+@media screen and (max-width: 480px) {
+	.team-seccion-grid:nth-child(3) {
+		display: none;
+	}
+	ul.callbacks_tabs.callbacks1_tabs {
+		bottom: 34%;
+		left: 91%;
+	}
+	.caption.text-center h5 {
+		font-size: 1.3em;
+	}
+	.caption h3 {
+		font-size: 1.9em;
+	}
+	.caption p {
+		font-size: 1em;
+		margin: 0.4em 0 1em 0;
+	}
+	.logo {
+		width: 23%;
+	}
+	.header-bottom {
+		padding: 0.8em 0;
+	}
+	.top-menu ul li a {
+		padding: 7px 0px;
+		margin: 7px 0;
+	}
+	.servicios-seccion-head h3, .team-seccion-head h3, .experiencia-seccion-head h3, .valoraciones-seccion h3, .opiniones-seccion-head h3, .clientes-seccion h3, .tarifa-seccion-head h3, .contacto-seccion-head h3 {
+		font-size: 2em;
+	}
+	.servicios-seccion-head p, .team-seccion-head p, .contacto-seccion-head p {
+		font-size: 1em;
+	}
+	.servicios-seccion, .team-seccion, .experiencia-seccion, .valoraciones-seccion, .opiniones-seccion, .clientes-seccion, .tarifa-seccion, .location-seccion, .contacto-seccion, .subscribe-seccion {
+		padding: 2em 0;
+	}
+	.servicios-seccion-grid h4 {
+		font-size: 1.5em;
+		margin: 10px 0 0px 0px;
+	}
+	.servicios-seccion-grid img {
+		width: 24%;
+	}
+	a.mas {
+		font-size: 1em;
+		padding: 6px 18px;
+		border: 2px solid #fff;
+		border-radius: 9px;
+	}
+	.servicios-seccion-grid p {
+		font-size: 1.05em;
+	}
+	.servicios-seccion-grid {
+		margin-top: 2.5em;
+	}
+	.team-seccion-grid {
+		margin: 0 2%;
+		width: 46%;
+	}
+	.team-seccion-grid img {
+		width: 75%;
+	}
+	.polling {
+		width: 90%;
+	}
+	.skills h4 {
+		font-size: 1.3em;
+	}
+	.skills {
+		height: 33px;
+	}
+	.percentage h4 {
+		font-size: 1.7em;
+		margin: 9px 0 0 15px;
+	}
+	.valoraciones-grid {
+		width: 50%;
+		margin-top: 1.2em;
+	}
+	.valoraciones-seccion-head {
+		margin-bottom: 1.5em;
+	}
+	.opiniones-seccion-head p {
+		font-size: 1em;
+	}
+	.opiniones-seccion-grid {
+		padding: 10px;
+	}
+	.clientes-text {
+		width: 76%;
+	}
+	.clientes-text h4 {
+		margin: 1px 0;
+		font-size: 1.3em;
+	}
+	.clientes-text p {
+		margin-bottom: 0.5em;
+		font-size: 1em;
+	}
+	.clientes img {
+		width: 94%;
+	}
+	.clientes-text a {
+		padding: 3px 13px;
+		font-size: 14px;
+	}
+	.tarifa-seccion-grid1:nth-child(3) {
+		display: none;
+	}
+	.tarifa-seccion-grid1 {
+		width: 48%;
+		margin-right: 4%;
+	}
+	.tarifa-seccion-grid1:nth-child(2) {
+		margin-right:0;
+	}
+	.rates {
+		left: 3.5em;
+	}
+	.tarifa-seccion-grid1-try h3 {
+		background: url('../imagenes/line.png') no-repeat 73px 17px;
+		background-size: 29% 100%;
+	}
+	.location-seccion ul {
+		width: 100%;
+		margin-bottom: 1em;
+		text-align: center;
+	}
+	i.phone,i.mail {
+		margin-right: 1em;
+	}
+	.contacto-form input[type="text"], .contacto-form textarea {
+		width: 88%;
+	}
+	.contacto-form textarea {
+		height: 11em;
+	}
+	.location-map {
+		min-height: 305px;
+	}
+	.map iframe{
+		min-height: 300px;
+	}
+	.mark {
+		padding: 10px 10px;
+		width: 37%;
+		margin: 7em 20em 0;
+	}
+	.subscribe-form input[type="text"] {
+		font-size: 16px;
+		padding: 7px 7px 7px 0;
+		width: 84%;
+	}
+	.icon {
+		margin: 2px 0px 4px 4px;
+	}
+	.subscribe-form {
+		width: 85%;
+	}
+	.subscribe-form input[type="enviar"] {
+		font-size: 16px;
+		padding: 8px 23px;
+	}
+	.social-icons i {
+		width: 50px;
+		height: 50px;
+		background-size: 300px;
+	}
+	i.dribble1 {
+		background-position: -2px -47px;
+	}
+	i.behance1 {
+		background-position: -56px -47px;
+	}
+	i.pinterest1 {
+		background-position: -110px -47px;
+	}
+	i.facebook1 {
+		background-position: -164px -47px;
+	}
+	.copyright p {
+		margin-top: 0.5em;
+	}
+	.tarifa-seccion-head p {
+		font-size: 1.1em;
+		margin-top: 0px;
+	}
+}
+@media screen and (max-width: 320px) {
+	.tarifa-seccion-grid1 {
+		width: 100%;
+		margin-right: 0;
+	}
+	.mark {
+		padding: 10px 10px;
+		width: 37%;
+		margin: 7em 12em 0;
+	}
+	ul.clientes li {
+		margin: 6% 3.5%;
+		width: 42%;
+	}
+	.caption.text-center h5 {
+		font-size: 1.15em;
+	}
+	.caption {
+		width: 85%;
+		top: 20%;
+		left: 7.5%;
+	}
+	.caption h3 {
+		font-size: 1.5em;
+	}
+	.caption p {
+		font-size: 0.875em;
+		margin: 0.2em 0 0.5em 0;
+	}
+	.callbacks_tabs a:after {
+		height: 10px;
+		width: 10px;
+		border: 2px solid #fff;
+	}
+	span.menu {
+		width: 22px;
+		height: 22px;
+		margin-top: 0px;
+		background-size: 21px;
+	}
+	.logo {
+		width: 28%;
+	}
+	ul.callbacks_tabs.callbacks1_tabs {
+		bottom: 24%;
+	}
+	.servicios-seccion-head h3, .team-seccion-head h3, .experiencia-seccion-head h3, .valoraciones-seccion h3, .opiniones-seccion-head h3, .clientes-seccion h3, .tarifa-seccion-head h3, .contacto-seccion-head h3 {
+		font-size: 1.8em;
+	}
+	.servicios-seccion, .team-seccion, .experiencia-seccion, .valoraciones-seccion, .opiniones-seccion, .clientes-seccion, .tarifa-seccion, .location-seccion, .contacto-seccion, .subscribe-seccion {
+		padding: 1.5em 0;
+	}
+	.servicios-seccion-grid img {
+		width: 35%;
+	}
+	.servicios-seccion-grid h4 {
+		font-size: 1.3em;
+	}
+	.servicios-seccion-grid {
+		margin-top: 1.5em;
+	}
+	.servicios-seccion-grid p {
+		font-size: 1.05em;
+		height: 66px;
+		overflow: hidden;
+		margin-bottom: 10px;
+		font-weight: 300;
+	}
+	a.mas {
+		font-size: 0.9em;
+		padding: 4px 16px;
+		border-radius: 8px;
+	}
+	.servicios-seccion-head p, .team-seccion-head p, .contacto-seccion-head p {
+		font-size: 0.875em;
+	}
+	.team-seccion-grid {
+		margin: 2% 5%;
+		width: 90%;
+	}
+	.team-seccion-head {
+		margin-bottom: 1.2em;
+	}
+	.experiencia-seccion-head p {
+		font-size: 0.875em;
+	}
+	.polling {
+		width: 100%;
+	}
+	.skills h4 {
+		font-size: 1em;
+	}
+	.experiencia-seccion-head, .valoraciones-seccion-head, .contacto-seccion-head {
+		margin-bottom: 1.5em;
+	}
+	.skills {
+		width: 82%;
+		margin: 2px 0;
+		height: 29px;
+	}
+	.percentage h4 {
+		font-size: 1.4em;
+		margin: 7px 0 0 5px;
+	}
+	i.obra {
+		width: 85px;
+		height: 75px;
+		background: url('../imagenes/img-sprite.png') no-repeat 1px -148px;
+		background-size: 280px;
+	}
+	i.face {
+		width: 85px;
+		height: 75px;
+		background: url('../imagenes/img-sprite.png') no-repeat -82px -148px;
+		display: inline-block;
+		background-size: 280px;
+	}
+	i.coti {
+		width: 85px;
+		height: 75px;
+		background: url('../imagenes/img-sprite.png') no-repeat -167px -89px;
+		display: inline-block;
+		background-size: 280px;
+	}
+	i.tercia {
+		width: 85px;
+		height: 75px;
+		background: url('../imagenes/img-sprite.png') no-repeat -167px -164px;
+		display: inline-block;
+		background-size: 280px;
+	}
+	.valoraciones-grids {
+		width: 90%;
+	}
+	.opiniones-seccion-head p {
+		font-size: 0.72em;
+		margin-top:2px;
+	}
+	.clientes {
+		margin-right: 2%;
+		width: 30%;
+	}
+	.clientes-text {
+		width: 68%;
+	}
+	.clientes-text h4 {
+		font-size: 0.9em;
+	}
+	.clientes-text span {
+		font-size: 0.88em;
+	}
+	.clientes-text p {
+		font-size: 0.875em;
+	}
+	.valoraciones-seccion-head {
+		margin-bottom: 0;
+	}
+	.opiniones-seccion-grid {
+		padding: 7px;
+	}
+	.contacto-form {
+		width: 90%;
+	}
+	.contacto-form input[type="text"], .contacto-form textarea {
+		width: 85%;
+	}
+	.contacto-form input[type="text"], .contacto-form textarea {
+		width: 85%;
+		font-size: 15px;
+	}
+	.contacto-form textarea {
+		height: 10em;
+	}
+	.location-map {
+		min-height: 255px;
+	}
+	.map iframe{
+		min-height: 250px;
+	}
+	.copyright p {
+		font-size: 13px;
+	}
+	.copyright p a {
+		font-size: 17px;
+		margin-top: 2px;
+		display: block;
+	}
+	.contacto-form input[type="enviar"] {
+		font-size: 15px;
+		padding: 10px 20px;
+	}
+	.location-map h4 {
+		font-size: 1em;
+	}
+	.mark {
+		padding: 5px 5px;
+		margin: 6em 13em 0;
+	}
+	.subscribe-form input[type="enviar"] {
+		font-size: 14px;
+		padding: 8px 18px;
+	}
+	.subscribe-form input[type="text"] {
+		font-size: 14px;
+		padding: 7px 7px 7px 0;
+		width: 79%;
+	}
+	.icon {
+		margin: 0px 0px 2px 0px;
+	}
+	.subscribe-form {
+		width: 90%;
+	}
+	.subscribe-form form li {
+		width: 65%;
+	}
+	.show img {
+		width: 60%;
+	}
+	.show {
+		top: 17px;
+		left: -47px;
+	}
+	.tarifa-seccion-head p {
+		font-size: 0.9em;
+	}
+	.tarifa-seccion-grid1:nth-child(2) {
+		margin: 7em 0 0 0;
+	}
+	.rates h2 {
+		font-size: 4em;
+	}
+	.rates {
+		width: 10em;
+		height: 10em;
+		left: 4.5em;
+	}
+	.tarifa-seccion-grid1-try h3 {
+		background: url('../imagenes/line.png') no-repeat 107px 17px;
+		background-size: 21% 100%;
+	}
+	.tarifa-seccion-grid1-try p {
+		font-size: 1.1em;
+	}
+}
+

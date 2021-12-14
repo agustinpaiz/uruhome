@@ -1,0 +1,41 @@
+.footer{
+	background: #fff;
+	padding: 2em 0;	
+}
+.social-icons i {
+	width: 90px;
+	height: 90px;
+	background: url('../imagenes/img-sprite.png') no-repeat 0px 0px;
+	display: inline-block;
+	cursor:pointer;
+}
+.social-icons i:hover {
+	opacity:0.5;
+}
+i.dribble1{
+	background-position:0px -75px;
+}
+i.behance1{
+	background-position:-90px -75px;
+}
+i.pinterest1{
+	background-position:-180px -75px;
+}
+i.facebook1{
+	background-position:-270px -75px;
+}
+// 
+.copyright {
+    p {
+	    font-size: 17px;
+	    color: #000;
+	    font-weight: 400;
+	margin-top: 1em;
+
+        a {
+	        font-size: 19px;
+	        color: #db5941;
+	        font-weight: 600;
+        }
+    }
+}// 
